@@ -2,4 +2,4 @@
 
 Hello all,
 
-I'm Varun, learning scriting in powershell at the moment. I am also interested in learning Azure, AWS and Python soon.
+I'm Varun, I'm learning scripting in powershell at the moment. I am also interested in learning Azure, AWS and Python soon.
